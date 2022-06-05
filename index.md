@@ -4,7 +4,4 @@
 
 ## Project 1
 
-Fraud_detection
-
-
-
+Fraud_detection is the first demo project.
